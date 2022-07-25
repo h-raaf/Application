@@ -1,0 +1,265 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "NetworkAds": "max",
+
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+		
+		
+		
+		"MaxBanner": "42e08f3df65b000f",
+		"MaxInter":  "c281ded30f2d4ef7",
+		"MaxNative": "4ba5b886291a2059",
+
+
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "Robert Lewandowski",
+        "image": "https://mrkzgulfup.com/uploads/165867886441191.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "Get Coins",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
+        "text": " Bayern Munich to Barcelona – £42.5m \n\n Officialisée mardi dernier, l'arrivée de Robert Lewandowski au FC Barcelone aurait pu ne jamais se faire. À cause d'un problème fiscal, le recrutement du Polonais a en effet pris plus de temps qu'escompté.  \n\n Mundo Deportivo révèle que la signature, qui aurait dû se faire dimanche ou lundi dernier, a été retardée pour des questions fiscales. La législation catalane, au contraire de celle en vigueur ailleurs en Espagne, prévoit que le travailleur est dans l'obligation de dévoiler son patrimoine, et de payer 2,5% d'impôts supplémentaires sur ce dernier. Conseillé par l'un de ses amis, l'ancien du Bayern Munich est finalement parvenu à régler ses soucis de déclaration, et à s'engager en faveur du FC Barcelone. ",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	  {
+        "title": "Erling Haaland",
+        "image": "https://mrkzgulfup.com/uploads/165867956909111.jpg",
+		"color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": " Borussia Dortmund to Manchester City – £51m \n\n  City have got a bargain thanks to Mino Raiola arranging a clause in Haaland’s Dortmund contract that made him available for £51million this summer. But the champions’ bill for Haaland will reportedly come to a total £85.5million when you factor in representatives’ fees – Alfie stands to trouser a few quid – and other costs.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	  	 	   {
+        "title": " Sadio Mané ",
+        "image": "https://mrkzgulfup.com/uploads/165868221722661.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "FC Bayern have signed Sadio Mané from Liverpool. The 30-year-old attacker has agreed a contract with the German record champions until 30 June 2025. \n\n Herbert Hainer, FC Bayern president:Sadio Mané is a global star, who underlines the appeal of FC Bayern and will increase the attractiveness of the Bundesliga as a whole. Fans come to the stadiums to see such unique players. It's great that our board led by Oliver Kahn and Hasan Salihamidžić have managed to sign a player like Sadio Mané for FC Bayern.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	  {
+        "title": " Di Maria ",
+        "image": "https://mrkzgulfup.com/uploads/165870732303221.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Di Maria signs one-year contract with Juventus \n\n The 34-year-old Argentinian forward will be a short-term reinforcement to Massimiliano Allegri’s attack as the Bianconeri look to get back involved in the Scudetto fight again following a recent slip. Di Maria scored five goals and provided eight assists in 26 Ligue 1 appearances last season. \n\n As announced by Juventus, Di Maria has officially joined the club after signing a one-year deal, picking the shirt number 22. ",
+        "isNative": false,
+		"background": "#FFE998"
+      },	  
+      {
+        "title": "Aurelien Tchouameni",
+        "image": "https://mrkzgulfup.com/uploads/165867912270991.jpeg",
+		"color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": " Monaco to Real Madrid – £68.3m (plus £17m add-ons) \n\n  Real fended off intense Premier League interest from Chelsea, Liverpool and Manchester United by offering Monaco a package potentially worth £85.3million. PSG were keen too but they backed away when it became clear that the 22-year-old was only interested in Real. Monaco stand to make a profit just shy of £70million, having bought Tchouameni from Bordeaux for £16million in January 2020.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	        {
+        "title": "Raphinha",
+        "image": "https://mrkzgulfup.com/uploads/165870402045491.jpg",
+		"color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": " Leeds to Barcelona – £49m (plus £7.6m add-ons) \n\n  The Brazilian has been quite clear all summer that Barca was his preferred destination, despite intense interest from Chelsea and Arsenal. Thankfully for the winger, Barca have somehow mustered up enough cash to pay a hefty amount up front. Frenkie De Jong wants answers.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	  	 	   {
+        "title": " Paul Pogba ",
+        "image": "https://mrkzgulfup.com/uploads/16587053673581.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Paul Pogba: Juventus complete re-signing of France midfielder from Manchester United \n\n Paul Pogba returns to Juventus from Manchester United six years after leaving the club in a world-record transfer fee of £89m in August 2016; French midfielder has finalised a four-year contract at former club",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	   	   {
+        "title": " Romelu Lukaku ",
+        "image": "https://mrkzgulfup.com/uploads/165870867211.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Romelu Lukaku has agreed to return to Inter Milan on loan from Chelsea next season, according to reports in Italy. \n\n The Belgian re-joined the Blues last summer for a club-record £98m after spearheading Inter's run to the Serie A title, but has struggled to make an impact at Stamford Bridge, scoring just eight Premier League goals. \n\n As such, speculation over his future has restarted and Italian outlet La Gazzetta dello Sport state that the 29-year-old has agreed to rejoin Inter on loan for the 2022-23 campaign, with the move now in the hands of both clubs. ",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	  	 	   {
+        "title": " Raheem Sterling ",
+        "image": "https://mrkzgulfup.com/uploads/165868248827411.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": " Manchester City to Chelsea – £47.5m \n\n  Chelsea are very pleased with themselves for taking Sterling from City, but it also represents good business on behalf of the champions, who’ve basically got their money back for the winger despite him having only a year remaining on his deal.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	   {
+        "title": " Federico Chiesa ",
+        "image": "https://mrkzgulfup.com/uploads/165868293877851.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": " Fiorentina to Juventus – £34m (plus £6m add-ons) \n\n  Juve have been obliged to buy Chiesa this summer after a two-year loan, which cost them £8million. The Old Lady could end up coughing up as much as £42million if the winger meets certain targets.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	   {
+        "title": " Franck Kessié ",
+        "image": "https://mrkzgulfup.com/uploads/165870499776891.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "The player arrives as a free agent after a spell with AC Milan, will sign a contract until 30 June 2026 and has a buy out clause of 500 million euros \n\n Barcelona have confirmed the signing of Franck Kessie from AC Milan on a free transfer. The midfielder has agreed a contract until 2026 with a release clause of €500 million.  \n\n Kessie, 25, agreed to join Barça earlier this year but the move was only made official on Monday following the expiry of his contract with Milan on June 30. ",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+      {
+        "title": "Darwin Nunez ",
+        "image": "https://mrkzgulfup.com/uploads/165867939855381.jpg",
+		"color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": " Benfica to Liverpool – £64m (plus £21m add-ons) \n\n  Liverpool moved decisively for last season’s top scorer in the Portuguese league by agreeing to a deal that could rise to €100million if Nunez triggers all the add-ons. The Reds will be liable for the first £12.8million worth of extra payments once Nunez has made 60 appearances, with £4.3million due after just 10 games. Once Nunez meets that 60-appearance threshold, he’ll become Liverpool’s most expensive player ever, before you even factor in the other £8.5million that is linked to individual and team performance.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+     
+      {
+        "title": "Matthijs de Ligt",
+        "image": "https://mrkzgulfup.com/uploads/165867971316261.jpg",
+		"color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": " Juventus to Bayern Munich – £57m (plus £8.5m in add-ons) \n\n  Chelsea were chasing but ultimately De Ligt wanted to play for Bayern Munich and Chelsea had to gracefully bow out. They may yet make this list by buying Jules Kounde.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	  	 	   {
+        "title": " Antonio Rüdiger ",
+        "image": "https://mrkzgulfup.com/uploads/165870673956381.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Antonio Rudiger: Real Madrid to sign Chelsea defender on free transfer after agreeing four-year deal \n\n Antonio Rudiger will join Real Madrid on a free transfer after running down his Chelsea contract; Germany international turned down Blues' attempts to renew his deal and has signed four-year contract at the Bernabeu; Sky Sports News revealed last month Rudiger would be joining Real Madrid",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	   {
+        "title": " Andreas Christensen ",
+        "image": "https://mrkzgulfup.com/uploads/165870567541531.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "After ten years on Chelsea’s books, from the Academy through the Loan Army to the first-team, Andreas Christensen left the club this summer upon the expiration of his contract. \n\n He had been expected to sign with Barcelona, and after a brief delay due to their financial problems, that has now indeed come to pass, with Christensen announced officially today, having signed a four-year deal through 2026. \n\n Christensen’s departure was confirmed by Chelsea last month, and the 26-year-old bade farewell on social media to the club and the fans last week as well. We had made his dreams come true, he said, but he’s now dreaming of Blaugrana, so more power to him. All-in-all, his departure still leaves a sour taste, thanks to the u-turn at the start of last season when he was reportedly all but set to sign an extension.",
+        "isNative": false,
+		"background": "#FFE998"
+      },	  
+	     {
+        "title": " Kalidou Koulibaly ",
+        "image": "https://mrkzgulfup.com/uploads/165868306365121.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": " Napoli to Chelsea – £34m \n\n  Remember when Chelsea wouldn’t give anyone over 30 a contract any longer than the end of the week? Koulibaly got a four-year deal when he joined the Blues. Still, the centre-back cost around a third of the price Napoli hoped to fetch a year or two ago.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	   {
+        "title": " Vitinha ",
+        "image": "https://mrkzgulfup.com/uploads/165868319581721.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": " Porto to PSG – £34m \n\n  The midfielder certainly didn’t look a £34million player when he was at Wolves, who didn’t think he was worth half that amount when they had the chance to sign him last summer for £17million at the end of a season-long loan. But a breakout season in Porto’s midfield last season caught Man Utd’s eye, though it was PSG who moved decisively for the 22-year-old.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	    {
+        "title": " Kalvin Phillips ",
+        "image": "https://mrkzgulfup.com/uploads/165868273343491.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": " Leeds to Manchester City – £42m (plus £3m add-ons) \n\n  Fair f***s to City. They’ve massively strengthened in two key areas by signing Haaland and Phillips for roughly what they raked in for two players a year away from walking away for nothing. And the feeling persists that they’ve had Leeds’ pants down here. Given the reported figures around Declan Rice, Phillips looks a steal. Though Leeds weren’t helped by the fact there wasn’t a bidding war. Manchester United were interested but Phillips would never have done the dirty on his hometown club.",
+        "isNative": false,
+		"background": "#FFE998"
+      }
+    ]
+
+  }
+}
