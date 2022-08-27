@@ -8,9 +8,9 @@
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 		
-		"MaxBanner": "d689756eacea24f0",
-		"MaxInter":  "1e2417b13303293f",
-		"MaxNative": "6678f17585b32c5f",
+		"MaxBanner": "YOUR_AD_UNIT_ID",
+		"MaxInter":  "YOUR_AD_UNIT_ID",
+		"MaxNative": "YOUR_AD_UNIT_ID",
 
         "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
