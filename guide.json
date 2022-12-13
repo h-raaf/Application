@@ -19,6 +19,19 @@
 },
 
        "items": [
+	          {
+        "title": "ACHRAF HARKOUS",
+        "image": "https://www.fcbarcelona.com/photo-resources/2021/08/05/1a696bdf-2750-4f86-9564-4422faf50151/messi-2.jpg?width=640&height=400",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "rlibzleibtnibentib rilgzrgluzrglbu  \n\n\n\n fvirfvnizrmnizrnmbizmrni ",
+        "isNative": false,
+		"background": "#FFF"
+      },
 	   {
         "title": "Kenshin Himura  ",
         "image": "https://i.postimg.cc/k5DrLDjN/16566274263911.jpg",
