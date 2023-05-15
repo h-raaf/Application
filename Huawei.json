@@ -4,7 +4,7 @@
       {
 		  
         "BannerAd": "max",
-        "InterstitialAd": "admob",
+        "InterstitialAd": "max",
         "NativeAd": "max",
 	      
 	      "MyPromo": "no",
@@ -12,9 +12,9 @@
 	"FirstBanner": "max",
         "MainBanner": "max",
 	      
-	"InterBtn1": "admob",
-        "InterBtn2": "facebook",
-        "InterBtn3": "admob",
+	"InterBtn1": "max",
+        "InterBtn2": "max",
+        "InterBtn3": "max",
         "InterBtn4": "max",
 
 	"FirstNative": "max",
@@ -44,7 +44,7 @@
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://www.google.com/",
 	      
-	 "intersitial_click_counter" : 2
+	 "intersitial_click_counter" : 3
 
 
 		
