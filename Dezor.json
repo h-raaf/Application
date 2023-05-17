@@ -19,10 +19,10 @@
 			"NativeAdsAc4": "max",
 			"NativeAdsAc5": "max",
 
-			"BannerAdmob": "",
-			"InterAdmob":  "",
-			"NativeAdmob": "",
-			"OpenAdmob":   "",
+			"BannerAdmob": "ca-app-pub-8276813490498362/3679316907",
+			"InterAdmob":  "ca-app-pub-8276813490498362/1053153563",
+			"NativeAdmob": "ca-app-pub-8276813490498362/3980384012",
+			"OpenAdmob":   "ca-app-pub-8276813490498362/9480122704",
 
 			"MaxBanner": "2be859ca302c549b",
 			"MaxInter":  "b1d8f893ca8dbe61",
